@@ -8,7 +8,7 @@
 
 使用本服務時，即表示您同意 : 
 
-1. 在使用此服務時，您不會違反 Discord服務條款(https://discord.com/terms)、Discord使用者準則(https://discord.com/guidelines)
+1. 在使用此服務時，您不會違反 Discord服務條款(https://discord.com/terms) 、Discord使用者準則(https://discord.com/guidelines)
 2. 您不會將本服務應用於任何非法或惡意的行為
 3. 您不會試圖故意中斷本應用服務的運作
 4. 您不會透過除了任何本應用內遊戲貨幣以外的任何物品交易應用內的物品或貨幣
